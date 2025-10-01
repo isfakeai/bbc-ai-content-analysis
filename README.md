@@ -10,7 +10,7 @@ Includes open dataset (CSV), methodology, [visualizations](figures/), and key fi
 See full text at: https://isfake.ai/bbc-ai-content
 
 ## 🛠️ isFake.ai Detector
-https://isfake.ai/text
+AI Detector available at: https://isfake.ai/text
  
  
 
